@@ -3,8 +3,8 @@ var info = {
     groupId: "org.jetlinks",
     artifactId: "jetlinks-community",
     version: "2.0.0",
-    website: "http://github.com/jetlinks/jetlinks-community",
-    comment: "jetlinks"
+    website: "http://zxhig.com",
+    comment: "中鑫航集团"
 };
 
 var users = [{
